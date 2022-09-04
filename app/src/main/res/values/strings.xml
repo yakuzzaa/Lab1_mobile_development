@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="number1">Операнд 1</string>
+    <string name="number2">Операнд 2</string>
+    <string name="addition">Сложить</string>
+    <string name="substraction">Вычесть</string>
+    <string name="multiply">Умножить</string>
+    <string name="division">Делить</string>
+    <string name="result">Результат: %f</string>
+    <string name="close">Закрыть</string>
+    <string name="inputError">Ошибка!</string>
+</resources>
